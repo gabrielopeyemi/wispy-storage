@@ -1,4 +1,5 @@
 # Wispy storage
+better localstorage for frontend
 
 ### Installation of wispy
 

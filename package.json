@@ -34,7 +34,7 @@
     "trailingComma": "es5"
   },
   "name": "wispy-storage",
-  "author": "gabrielopeyemi",
+  "author": "gabrielopeyemi<famosipe2010@gmail.com>",
   "module": "dist/wispy-storage.esm.js",
   "size-limit": [
     {
