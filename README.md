@@ -2,12 +2,14 @@
 better localstorage for frontend
 
 ### Installation of wispy
-
+```bash
 npm i --save wispy 
-
+```
 
 ### Using wispy storage:
 
+
+```bash
 To add data to a store:
 addToWispy('details': {name: 'gabe', age: 17});
 
@@ -19,7 +21,9 @@ deleteFromWispy('details');
 
 To delete all stores
 cleanWispy();
-
+```
 
 ### git repo: 
+```bash
 https://github.com/gabrielopeyemi/wispy-storage.git
+```
