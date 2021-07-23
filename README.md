@@ -3,7 +3,7 @@ better localstorage for frontend
 
 ### Installation of wispy
 ```bash
-npm i --save wispy 
+npm i --save wispy-storage
 ```
 
 ### Using wispy storage:

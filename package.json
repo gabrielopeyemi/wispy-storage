@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
+  "version": "0.0.8",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -35,6 +35,9 @@
   },
   "name": "wispy-storage",
   "author": "gabrielopeyemi<famosipe2010@gmail.com>",
+  "keywords": [
+    "React", "Storage", "React-Storage", "Website Storage"
+  ],
   "module": "dist/wispy-storage.esm.js",
   "size-limit": [
     {
